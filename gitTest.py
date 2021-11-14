@@ -1,1 +1,2 @@
 print("боль")
+print("commit")
